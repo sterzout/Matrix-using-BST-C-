@@ -1,0 +1,54 @@
+Script started on 2023-12-06 21:47:35-05:00 [TERM="xterm-256color" TTY="/dev/pts/35" COLUMNS="171" LINES="15"]
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ ate
+[?2004lbash: ate: command not found
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ date
+[?2004lWed Dec  6 09:47:41 PM EST 2023
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ whoami
+[?2004lsterzout
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ pwd
+[?2004l/home/sterzout/courses/cs2211/Asn/asn5
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ l[Kls
+[?2004lasn5_script.script  [0m[01;34mbstree[0m  bstree.o  [01;34mdatatype[0m  datatype.o  [01;34mInclude[0m  [01;34mmain[0m  main.o  [01;34mmatrix[0m  matrix.o  [01;32mprogram1[0m
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ cd bstree
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5/bstree[?2004h[sterzout@compute bstree]$ ls
+[?2004lbstree.c  bstree.o  Makefile
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5/bstree[?2004h[sterzout@compute bstree]$ cd ..
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ ls
+[?2004lasn5_script.script  [0m[01;34mbstree[0m  bstree.o  [01;34mdatatype[0m  datatype.o  [01;34mInclude[0m  [01;34mmain[0m  main.o  [01;34mmatrix[0m  matrix.o  [01;32mprogram1[0m
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ cs [K[Kd datatype
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5/datatype[?2004h[sterzout@compute datatype]$ ls
+[?2004ldatatype.c  datatype.o  Makefile
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5/datatype[?2004h[sterzout@compute datatype]$ cd ..
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ cd Inck[Klude [K
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5/Include[?2004h[sterzout@compute Include]$ ls
+[?2004lbstree.h  datatype.h  matrix.h
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5/Include[?2004h[sterzout@compute Include]$ cd ..
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ cd main
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5/main[?2004h[sterzout@compute main]$ ls
+[?2004l[0m[01;32mmain[0m  main.c  main.o  Makefile  tester.txt
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5/main[?2004h[sterzout@compute main]$ cd ..
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ cd mar[Ktrix
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5/matrix[?2004h[sterzout@compute matrix]$ ls
+[?2004lMakefile  matrix.c  matrix.o
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5/matrix[?2004h[sterzout@compute matrix]$ cd ..
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ ls
+[?2004lasn5_script.script  [0m[01;34mbstree[0m  bstree.o  [01;34mdatatype[0m  datatype.o  [01;34mInclude[0m  [01;34mmain[0m  main.o  [01;34mmatrix[0m  matrix.o  [01;32mprogram1[0m
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ cd ,[Kmain
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5/main[?2004h[sterzout@compute main]$ ./main
+[?2004lNumber         Street            Occurrences       
+4           4 Oaks Crescent           1     
+101         Western Road              2     
+8         3 Valleys Place             1     
+74        3rd Street                  1     
+70        Oxford Street               3     
+100      1st Street                   1     
+10       Abbott Street                2     
+204      Beech Drive                  1     
+36       Beechbank Crescent           1     
+36       Beechmount Crescent          1     
+46       Oxford Street                1     
+]0;sterzout@compute:~/courses/cs2211/Asn/asn5/main[?2004h[sterzout@compute main]$ cd ..
+[?2004l]0;sterzout@compute:~/courses/cs2211/Asn/asn5[?2004h[sterzout@compute asn5]$ exit
+[?2004lexit
+
+Script done on 2023-12-06 21:49:59-05:00 [COMMAND_EXIT_CODE="0"]
